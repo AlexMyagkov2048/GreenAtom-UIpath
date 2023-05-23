@@ -1,0 +1,35 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Pass&Sequence_1",
+        "CheckFile&Sequence_1",
+        "RangeOrCell&Sequence_25",
+        "Config&Sequence_1",
+        "CountRows&Sequence_1",
+        "ExtractDataTable&Sequence_1",
+        "Date&Sequence_16",
+        "variable3&Sequence_16",
+        "RegexTime&Sequence_16",
+        "RegexDate&Sequence_1",
+        "RegexTime&Sequence_1",
+        "Task&Sequence_1",
+        "LastDay&Sequence_1",
+        "FirstDay&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
